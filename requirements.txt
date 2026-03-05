@@ -1,0 +1,14 @@
+dash
+dash-bootstrap-components
+pandas
+sqlalchemy
+pymysql
+pymongo
+scikit-learn
+joblib
+catboost
+python-dotenv
+seaborn
+matplotlib
+plotly
+prefect
