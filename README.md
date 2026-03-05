@@ -222,5 +222,5 @@ Possible extensions for the project include:
 
 ## Author
 
-Hari Prasath P
+Hari Prasath; 
 MSc Artificial Intelligence
